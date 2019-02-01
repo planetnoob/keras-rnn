@@ -1,2 +1,15 @@
-this is only a test 
-the value of x is 2
+-------------------
+input chars = 
+akin to love for irene adler. all emotions, and that one particularly, were abhorrent to his cold, p"
+predicted chars = 
+rom holmes. i shall not she wime he room his byeart, peeshing he ease ever then if you me and from i"
+-------------------
+input chars = 
+recise but admirably balanced mind. he was, i take it, the most perfect reasoning and observing mach"
+predicted chars = 
+ sparied to me, showing might he he entered, the same to my be seell to door and i have his noters o"
+-------------------
+input chars = 
+server excellent for drawing the veil from men s motives and actions. but for the trained reasoner t"
+predicted chars = 
+o the ross that it mockst who had come tagked at the rusmien door, and his brey upbly the bass, this"
